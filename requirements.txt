@@ -1,5 +1,8 @@
-streamlit
-pandas
-fpdf2
-pdfplumber
-requests
+Flask>=2.3.0
+pdfplumber>=0.10.0
+fpdf>=2.7.0
+python-dotenv>=1.0.0
+Werkzeug>=2.3.0
+gunicorn>=21.0.0
+pydantic>=2.0.0
+APScheduler>=3.10.0
