@@ -1,0 +1,32 @@
+# Fichiers Python __pycache__
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Log files (IMPORTANT)
+logs/*.log
+*.log
+
+# Dossier uploads temporaires
+uploads/*
+!uploads/.gitkeep
+
+# Environments
+.env
+.env.local
+.env.*.local
+
+# IDE & Éditeurs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Système d'exploitation
+.DS_Store
+Thumbs.db
+
+# Fichiers de compilation
+build/
+dist/
